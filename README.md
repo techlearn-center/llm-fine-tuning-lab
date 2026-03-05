@@ -2,7 +2,7 @@
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20to%20Advanced-blue)
 ![Modules](https://img.shields.io/badge/Modules-10%20%2B%20Capstone-green)
-![Time](https://img.shields.io/badge/Estimated%20Time-50 Hours-orange)
+![Time](https://img.shields.io/badge/Estimated%20Time-50%20Hours-orange)
 ![Hands--On](https://img.shields.io/badge/100%25-Hands--On-red)
 
 **Fine-tune open-source LLMs with LoRA/QLoRA from dataset preparation to production deployment with evaluation and optimization.**
